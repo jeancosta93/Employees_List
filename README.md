@@ -1,10 +1,6 @@
 # Employees_List
 ### Estudo voltado para POO, Utilizando Lista&lt;Array>
 
-###### DevSuperior - sua carreira dev com fundamento de ensino superior
-
-[![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-youtube.png "DevSuperior no Youtube")](https://youtube.com/devsuperior) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-facebook.png "DevSuperior no Facebook")](https://facebook.com/devsuperior.fb) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-instagram.png "DevSuperior no Instagram")](https://instagram.com/devsuperior.ig)
-
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
