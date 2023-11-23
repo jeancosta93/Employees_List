@@ -13,7 +13,7 @@
 
 - Este é um exercicio voltado para fundamento de List ( ArrayList ).
 Temos aqui um exemplo de cadastro de funcionários, onde temos um ( ID, Nome, Salário ).
-Utilizamos uma Class (Employee), onde apliquei esninamentos de ( Construtores, get e set, toString e métodos.)
+Utilizamos uma Class (Employee), onde apliquei ensinamentos de ( Construtores, get e set, toString e métodos.)
 Utilizei também, na aplicação (Program), estrutura condicional (If,Else); Estrutura repetitiva (For / Foreach).
 Pela primeira vez tive a felicidade de poder ver algo novo, como métodos para validação do 'ID' tanto para que não possa ser repetido,
 quanto para que possa ser incrementado através do mesmo o reajuste salarial. 
@@ -25,6 +25,7 @@ Espero que gostem =)
 
 ## Pré-requisitos
 
+- Java 8 / 11
 - Lógica de programação
   - Variáveis, entrada, processamento, saída
   - Estrutura condicional
