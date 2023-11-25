@@ -3,7 +3,7 @@
 
 
 ## Sumário
-- [O que você vai aprender](#O-que-você-vai-aprender)
+- [O que você vai ver](#O-que-você-vai-ver)
 - [Pré-requisitos](#pré-requisitos)
 - [Enunciado do exercício](#Enunciado-do-exercício)
 
