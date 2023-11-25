@@ -7,7 +7,7 @@
 - [Pré-requisitos](#pré-requisitos)
 - [Enunciado do exercício](#Enunciado-do-exercício)
 
-## O que você vai ver nessa aplicação
+## O que você vai ver nessa aplicação:
 - Listas (tipo List)
 - Operações: adicionar elemento na lista, acessar um elemento, percorrer e analisar os elementos da lista.
 
