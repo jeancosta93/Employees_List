@@ -1,5 +1,5 @@
 # Employees_List
-### Estudo voltado para POO, Utilizando Lista&lt;Array>
+### Estudo voltado para POO, Utilizando List&lt;Array>
 
 
 ## Sumário
